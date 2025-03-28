@@ -1,0 +1,170 @@
+//Motif
+
+play(B4, SIXTEENTH);
+play(A4, SIXTEENTH);
+play(GS4, SIXTEENTH);
+play(A4, SIXTEENTH);
+play(C4, EIGHTH)
+
+rest(EIGHTH);
+
+play(D5, SIXTEENTH);
+play(C5, SIXTEENTH);
+play(B4, SIXTEENTH);
+play(D5, SIXTEENTH);
+play(E5, SIXTEENTH);
+
+rest(EIGHTH);
+
+play(F5, SIXTEENTH);
+play(E5, SIXTEENTH);
+play(DS5, SIXTEENTH);
+play(E5, SIXTEENTH);
+
+play(B5, SIXTEENTH);
+play(A5, SIXTEENTH);
+play(GS5, SIXTEENTH);
+play(A5, SIXTEENTH);
+
+play(B5, SIXTEENTH);
+play(A5, SIXTEENTH);
+play(GS5, SIXTEENTH);
+play(A5, SIXTEENTH);
+
+play(C6, QUARTER);
+
+
+play(A5, EIGHTH);
+play(C6, EIGHTH);
+
+play(B5, EIGHTH);
+play(A5, EIGHTH);
+play(G5, EIGHTH);
+play(A5, EIGHTH);
+
+play(B5, EIGHTH);
+play(A5, EIGHTH);
+play(G5, EIGHTH);
+play(A5, EIGHTH);
+
+play(B5, EIGHTH);
+play(A5, EIGHTH);
+play(G5, EIGHTH);
+play(F5, EIGHTH);
+
+play(E5, QUARTER);
+
+//Motif x2
+
+
+//Pre-Drop
+
+play(E5, EIGHTH);
+play(F5, EIGHTH);
+play(G5, EIGHTH);
+delay(10);
+play(G5, EIGHTH);
+
+play(A5, SIXTEENTH);
+play(G5, SIXTEENTH);
+play(F5, SIXTEENTH);
+play(E5, SIXTEENTH);
+
+play(D5, EIGHTH);
+play(G4, EIGHTH);
+
+play(E5, EIGHTH);
+play(F5, EIGHTH);
+play(G5, EIGHTH);
+delay(10);
+play(G5, EIGHTH);
+
+play(A5, SIXTEENTH);
+play(G5, SIXTEENTH);
+play(F5, SIXTEENTH);
+play(E5, SIXTEENTH);
+
+play(D5, QUARTER);
+
+
+play(C5, EIGHTH);
+play(D5, EIGHTH);
+play(E5, EIGHTH);
+delay(10);
+play(E5, EIGHTH);
+
+play(F5, SIXTEENTH);
+play(E5, SIXTEENTH);
+play(D5, SIXTEENTH);
+play(C5, SIXTEENTH);
+
+play(B4, EIGHTH);
+play(E4, EIGHTH);
+
+
+play(C5, EIGHTH);
+play(D5, EIGHTH);
+play(E5, EIGHTH);
+delay(10);
+play(E5, EIGHTH);
+
+play(F5, SIXTEENTH);
+play(E5, SIXTEENTH);
+play(D5, SIXTEENTH);
+play(C5, SIXTEENTH);
+
+play(B4, QUARTER);
+
+
+play(B4, SIXTEENTH);
+play(A4, SIXTEENTH);
+play(GS4, SIXTEENTH);
+play(A4, SIXTEENTH);
+play(C4, EIGHTH)
+
+rest(EIGHTH);
+
+play(D5, SIXTEENTH);
+play(C5, SIXTEENTH);
+play(B4, SIXTEENTH);
+play(D5, SIXTEENTH);
+play(E5, SIXTEENTH);
+
+rest(EIGHTH);
+
+play(F5, SIXTEENTH);
+play(E5, SIXTEENTH);
+play(DS5, SIXTEENTH);
+play(E5, SIXTEENTH);
+
+play(B5, SIXTEENTH);
+play(A5, SIXTEENTH);
+play(GS5, SIXTEENTH);
+play(A5, SIXTEENTH);
+
+play(B5, SIXTEENTH);
+play(A5, SIXTEENTH);
+play(GS5, SIXTEENTH);
+play(A5, SIXTEENTH);
+
+play(C6, QUARTER);
+
+play(A5, EIGHTH);
+play(B5, EIGHTH);
+
+play(C6, EIGHTH);
+play(B5, EIGHTH);
+play(A5, EIGHTH);
+play(GS5, EIGHTH);
+play(A5, EIGHTH);
+play(E5, EIGHTH);
+play(F5, EIGHTH);
+play(D5, EIGHTH);
+play(C5, QUARTER);
+
+play(B4, EIGHTH_DOT);
+play(A4, THIRTYSECOND);
+play(B4, THIRTYSECOND);
+
+play(A4, QUARTER);
+
